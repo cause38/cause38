@@ -1,2 +1,2 @@
 - 👋 Hi, I’m JinJu Park
-- I'm FE Dev
+- I'm FE Developer
