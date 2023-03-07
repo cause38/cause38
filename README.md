@@ -3,9 +3,9 @@
 <h2>Hi There! 🖐</h2>
   
   <span>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcause38&count_bg=%2383B6FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)</span>
-  <a href="https:cause38.github.io/portfolio" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat-square&amp;logo=Micro.blog&amp;logoColor=white" />
-	</a>
+  <a href="https://cause38.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat-square&amp;logo=Micro.blog&amp;logoColor=white" />
+  </a>
   <a href="https://velog.io/@cause0_0" target="_blank">
     <img src="http://img.shields.io/badge/-Velog-20c997?style=flat-square&amp;logo=velog&amp;logoColor=white&amp;link=https://velog.io/@cause0_0" />
   </a>
